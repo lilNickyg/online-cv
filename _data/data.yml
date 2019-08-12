@@ -31,8 +31,6 @@ sidebar:
       - idiom: German
         level: Novice
 
-      - idiom:
-        level:
 
     interests:
       - item: Climbing & Bouldering
@@ -47,58 +45,51 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      The past 3 years I have been working in Mechanical Design, Finite Element
+      Analysis, Web Design, Composite manufacture and Manual/CNC Machining.
+      I am applying to get my Charership with the IMechE in 2020, and plan to
+      develop my skills as proficiently as possible while learning new subjects
+      to expand my knowledge. You can [download this free resume/CV template
+      here]().
 
 education:
     - degree: MEng in Mechanical Engineering
       university: University of Birmingham
       time: 2012 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Projects I worked on include:
 
-          - Bullet point
-          - Bullet point
+          - UBRacing team; designing, analysing and manufactuing a throttle-body
+          - Artificial Intelligence; using Genetic and Evolutionary Algorithms
+          on Matlab
+          - CFD analysis on aerodynamics of high speed vehicles
+          - FEA on Self-healing composites induced by electric fields.
 
 experiences:
     - role: Mechanical & Thermal Engineer
       time: Aug 2019 - Present
       company: Oxford Space Systems, Didcot
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+        Responsiblities include;
+          - performing design and analysis (mechanical-
+          structural, thermal and dynamic-vibration) to support deployable
+          structures projects.
+          - Creation and of details analysis reports
+          - Documentation of test plans and proceedures
+          - Support business development team in preparing technical proposals
+          for customers
+          - Proficiency in SW Simulation/ANSYS/ESATAN/FEMAP/Matlab.
 
     - role: Mechanical Design Engineer
       time: Jan 2019 - Aug 2019
       company: Oxford Space Systems, Didcot
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Developing innovative deployable antennas and structures that meet the
+        challenges of new space age. Designing low cost solutions at record
+        pace.
 
-          - Bullet point
-          - Bullet point
+          - Solidworks design 3D modelling and 2D technical Drawings
+          - Simulations and rendering animations for delivering presentations
 
     - role: Mechanical Design & FE Engineer
       time: 2012 - 2014
