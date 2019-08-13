@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Nick Graham
@@ -72,7 +72,10 @@ experiences:
       time: Aug 2019 - Present
       company: Oxford Space Systems, Didcot
       details: |
-        Responsiblities include;
+        Developing innovative deployable antennas and structures that meet the
+        challenges of new space age. Designing low cost solutions at record
+        pace.
+
           - Performing design and analysis (mechanical-structural, thermal
           and dynamic-vibration) to support deployable
           structures projects.
@@ -86,9 +89,7 @@ experiences:
       time: Jan 2019 - Aug 2019
       company: Oxford Space Systems, Didcot
       details: |
-        Developing innovative deployable antennas and structures that meet the
-        challenges of new space age. Designing low cost solutions at record
-        pace.
+        Responsibilities include:
 
           - Solidworks design 3D modelling and 2D technical Drawings
           - Simulations and rendering animations for delivering presentations
@@ -97,21 +98,26 @@ experiences:
       time: 2016 - 2018
       company: TISICS, Farnborough
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Developing innnovate solutions to aerospace and in-orbit applications
+        using Metal Matrix Composites. Lightweight, high strength Titanium SiC
+        composites designed and applied to new designs in the space Industry.
 
-          - Bullet point
-          - Bullet point
+          - Performed full lifecycle product development for R&D projects with
+          funding of over €1.5 million.
+          - Project lead for multiple Innovate UK projects, focused on Metal
+          Matrix Composites.
+          - Performed presentations at QRMs for project partners such as ESA,
+          UKSpace, Thales, RR and JLR.
+          - Analyses data and interpreted results to characterize design
+          performance using FE tools.
+          - Designed models with SolidWorks, and manufactured parts using CNC
+          machines via CAM software.
+          - Developed and built a new website to improve an outdated one.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Projects I have worked on that can be disclosed publically include:
 
     assignments:
       - title: InnovateUK, Materials for Demanding environments
@@ -146,9 +152,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Awarded with the SA Tobias Memorial Prize for submitting the highest scoring overall Final Year Project (91)
 
     papers:
       - title: Modelling of carbon-fibre reinforced composites with self-healing properties using electric field-induced alignment.
