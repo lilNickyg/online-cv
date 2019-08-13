@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Nick Graham
@@ -50,6 +50,9 @@ career-profile:
       I am applying to get my Charership with the IMechE in 2020, and plan to
       develop my skills as proficiently as possible while learning new subjects
       to expand my knowledge.
+
+      I'm looking to stay in the Space industry and devlop my skills as an
+      analysist whilst continuing my personal development.
 
 education:
     - degree: MEng in Mechanical Engineering
@@ -117,24 +120,24 @@ projects:
         promote, market and sell their products."
 
       - title: InnovateUK, Robotic In-Space Manufacturing & Assembly (RISMA)
-        link: "#"
+        link: "https://www.tisics.co.uk/doc/Airbus_Robot_Arm_Poster.pdf"
         tagline: "A responsive website template designed to help web
         developers/designers market their services."
 
       - title: InnovateUK, Power Ultrasound as a generic tool for nanoscale processing of materials (UltraMAT)
-        link: "#"
+        link: "http://www.ultramat.co.uk/"
         tagline: "A responsive website template designed to help startups
         promote their products or services and to attract users &amp; investors"
 
       - title: InnovateUK, Other
-        link: "#"
+        link: "https://www.qub.ac.uk/sites/OLIVERProject/"
         tagline: "Some other InnovateUK funded projects I have worked on
         include Project OLIVER (Laser welding titanium composite using Filament
          wound overwrapped SiC fibres) and
         Mechanised production of moulded high strength aluminium tanks"
 
       - title: Personal Development
-        link: "#"
+        link: "https://lilnickyg.github.io/"
         tagline: "Learning programming, Web Dev and electronics at home has
         enabled me to build my own website, use programming to help automate
         work, develop multple Projects
