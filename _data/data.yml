@@ -148,17 +148,13 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: Modelling of carbon-fibre reinforced composites with self-healing
-        properties using electric field-induced alignment.
+      - title: Modelling of carbon-fibre reinforced composites with self-healing properties using electric field-induced alignment.
         authors: Nicholas Graham
         conference: Final Year Project, 2016
 
-      - title: Autonomous restoration of structural carbon fibres in polymer
-        composites using vascular systems and electric alignment.
-        authors: Yongjing Wang, Jake Edgell, Nicholas Graham, Nathaniel Jackson,
-        Hengkun Liang and Duc Truong Pham
-        conference: "Department of Mechanical Engineering, University of
-        Birmingham, UK"
+      - title: Autonomous restoration of structural carbon fibres in polymer composites using vascular systems and electric alignment.
+        authors: Yongjing Wang, Jake Edgell, Nicholas Graham, Nathaniel Jackson, Hengkun Liang and Duc Truong Pham
+        conference: "Department of Mechanical Engineering, University of Birmingham, UK"
 
 skills:
     title: Skills &amp; Proficiency
