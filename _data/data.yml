@@ -170,16 +170,16 @@ skills:
       - name: Solidworks
         level: 98%
 
-      - name: ANSYS
+      - name: ANSYS & ABAQUS
         level: 98%
 
-      - name: Abaqus/FEMAP/OpenFOAM/NASTRAN/PATRAN
+      - name: FEMAP & Matlab
         level: 97%
 
       - name: InkScape & Blender
         level: 95%
 
-      - name: HTML5, CSS & JavaScript
+      - name: HTML5, CSS & JS
         level: 85%
 
       - name: Electronics
