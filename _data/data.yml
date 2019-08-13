@@ -49,8 +49,7 @@ career-profile:
       Analysis, Web Design, Composite manufacture and Manual/CNC Machining.
       I am applying to get my Charership with the IMechE in 2020, and plan to
       develop my skills as proficiently as possible while learning new subjects
-      to expand my knowledge. You can [download this free resume/CV template
-      here]().
+      to expand my knowledge.
 
 education:
     - degree: MEng in Mechanical Engineering
@@ -71,10 +70,10 @@ experiences:
       company: Oxford Space Systems, Didcot
       details: |
         Responsiblities include;
-          - performing design and analysis (mechanical-
-          structural, thermal and dynamic-vibration) to support deployable
+          - Performing design and analysis (mechanical-structural, thermal
+          and dynamic-vibration) to support deployable
           structures projects.
-          - Creation and of details analysis reports
+          - Creation and of detailed analysis reports
           - Documentation of test plans and proceedures
           - Support business development team in preparing technical proposals
           for customers
@@ -92,7 +91,7 @@ experiences:
           - Simulations and rendering animations for delivering presentations
 
     - role: Mechanical Design & FE Engineer
-      time: 2012 - 2014
+      time: 2016 - 2018
       company: TISICS, Farnborough
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -112,25 +111,35 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: InnovateUK - Materials for Demanding environments
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A responsive website template designed to help startups
+        promote, market and sell their products."
 
-      - title: DevStudio
+      - title: InnovateUK - Robotic In-Space Manufacturing & Assembly (RISMA)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A responsive website template designed to help web
+        developers/designers market their services."
 
-      - title: Tempo
+      - title: InnovateUK - Power Ultrasound as a generic tool for nanoscale
+      processing of materials (UltraMAT)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A responsive website template designed to help startups
+        promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: InnovateUK - Other
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Some other InnovateUK funded projects I have worked on
+        include Project OLIVER (Laser welding titanium composite using Filament
+         wound overwrapped SiC fibres) and
+        "Mechanised production of moulded high strength aluminium tanks""
 
-      - title: Delta
+      - title: Personal Development
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Learning programming, Web Dev and electronics at home has
+        enabled me to build my own website, use programming to help automate
+        work, develop multple Projects
+        on the Raspberry Pi and build my own Mechanical Keyboard from scratch."
 
 publications:
     title: Publications
@@ -140,38 +149,38 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Modelling of carbon-fibre reinforced composites with self-healing
+        properties using electric field-induced alignment.
+        authors: Nicholas Graham
+        conference: Final Year Project, 2016
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Autonomous restoration of structural carbon fibres in polymer
+        composites using vascular systems and electric alignment.
+        authors: Yongjing Wang, Jake Edgell, Nicholas Graham, Nathaniel Jackson,
+        Hengkun Liang and Duc Truong Pham
+        conference: "Department of Mechanical Engineering, University of
+        Birmingham, UK"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Solidworks
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: ANSYS
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Abaqus/FEMAP/OpenFOAM/NASTRAN/PATRAN
+        level: 97%
 
-      - name: HTML5 & CSS
+      - name: InkScape & Blender
         level: 95%
 
-      - name: Ruby on Rails
+      - name: HTML5, CSS & JavaScript
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Electronics
         level: 60%
 
 footer: #>
