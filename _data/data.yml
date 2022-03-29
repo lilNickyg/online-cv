@@ -45,10 +45,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      The past 3 years I have been working in Mechanical Design, Finite Element
+      For the past 5 years I have been working within in the Space Industry,
+      developing my skills in Mechanical Design, Finite Element
       Analysis, Web Design, Composite manufacture and Manual/CNC Machining.
-      I am applying to get my Chartership with the IMechE in 2020, and plan to
-      develop my skills as proficiently as possible while learning new subjects
+      I have recently successfully achieved Chartership status with the IMechE, and plan to
+      develop my skills as effectively as possible while learning new subjects
       to expand my knowledge.
 
       I'm looking to stay in the Space industry and develop my skills as an
@@ -120,6 +121,11 @@ projects:
       Projects I have worked on that can be disclosed publically include:
 
     assignments:
+      - title: OSS - Wrapped Rib Antenna Development
+        link: "https://oxford.space/wrapped-rib/"
+        tagline: "Work Package Manager and Technical lead on multiple projects
+        within the Wrapped Rib development team"
+
       - title: InnovateUK, Materials for Demanding environments
         link: "https://www.amrc.co.uk/news/supporting-developments-in-lightweighting-helps-uk-companies-take-advantage-of-opportunities-in-glo"
         tagline: "A responsive website template designed to help startups
