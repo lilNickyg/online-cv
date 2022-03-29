@@ -28,7 +28,7 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: German
+      - idiom: French
         level: Novice
 
 
@@ -69,6 +69,25 @@ education:
           - FEA on Self-healing composites induced by electric fields.
 
 experiences:
+    - role: Senior Mechanical Engineer (Freelance)
+      time: Jan 2021 - July 2021
+      company: OXLABS, Didcot
+      details: |
+        Developing commerical engineering products.
+          - Developing CAD designs for innovative air filtration devices
+          - Prototype development manufacture and assembly.
+
+    - role: Robotics Lead Engineer (Freelance)
+      time: July 2021 - Present
+      company: Oxford Dynamics, Didcot
+      details: |
+        Developing Microscale Robotics and AI Technology in an innovative R&D
+        environment.
+          - CFD analysis
+          - 3D Printing prototype models
+          - Electronics assembly and procurement
+          - Testing and producing reports or presentations
+
     - role: Mechanical & Thermal Engineer
       time: Aug 2019 - Present
       company: Oxford Space Systems, Didcot
