@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Nick Graham
-    tagline: Mechanical and Thermal Engineer
+    name: Nick Graham, CEng
+    tagline: Senior Mechanical Design Engineer
     avatar: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -33,13 +33,16 @@ sidebar:
 
 
     interests:
-      - item: Climbing & Bouldering
-        link:
-
       - item: Programming & Web Design
         link:
 
       - item: Electronics
+        link:
+
+      - item: 3D Printing
+        link:
+
+      - item: Climbing & Bouldering
         link:
 
 career-profile:
