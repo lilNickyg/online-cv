@@ -105,7 +105,7 @@ experiences:
         Technical lead for developing commerical engineering products.
           - Developing CAD designs for innovative air filtration devices
           - Prototype development manufacture and assembly.
-          
+
     - role: Mechanical Design Engineer
       time: Jan 2019 - Aug 2019
       company: Oxford Space Systems, Didcot
@@ -148,15 +148,19 @@ projects:
 
       - title: InnovateUK, Materials for Demanding environments
         link: "https://www.amrc.co.uk/news/supporting-developments-in-lightweighting-helps-uk-companies-take-advantage-of-opportunities-in-glo"
-        tagline: "X."
+        tagline: "Developing actuators rods in highly specialised aerospace
+        technology such as satellites where ‘lightweighting’ is critical to
+        the design of components, as saving the smallest amount of weight can
+        have a massive impact on launch costs."
 
       - title: InnovateUK, Robotic In-Space Manufacturing & Assembly (RISMA)
         link: "https://www.tisics.co.uk/doc/Airbus_Robot_Arm_Poster.pdf"
-        tagline: "X."
+        tagline: "Robotically demonstrate the manufacturing and
+        assembly of representative space structures in a laboratory environment."
 
       - title: InnovateUK, Power Ultrasound as a generic tool for nanoscale processing of materials (UltraMAT)
         link: "http://www.ultramat.co.uk/"
-        tagline: "X"
+        tagline: "Power ultrasound as a generic tool for micro/nanoscale processing of metals"
 
       - title: InnovateUK, Other
         link: "https://www.qub.ac.uk/sites/OLIVERProject/"
