@@ -194,23 +194,24 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Solidworks
+      - name: Solidworks CAD/Simulation
         level: 98%
 
-      - name: ANSYS & ABAQUS
-        level: 98%
+      - name: ANSYS, FEMAP
+        level: 90%
 
-      - name: FEMAP & Matlab
-        level: 97%
-
-      - name: InkScape & Blender
-        level: 95%
-
-      - name: HTML5, CSS & JS
+      - name: 3D Printing
         level: 85%
+
+      - name: Metalwork machining
+        level: 80%
 
       - name: Electronics
         level: 60%
+
+      - name: Web Design
+        level: 60%
+
 
 footer: #>
   #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Nick Grahamy</a>
