@@ -69,14 +69,6 @@ education:
           - FEA on Self-healing composites induced by electric fields.
 
 experiences:
-    - role: Senior Mechanical Engineer (Freelance)
-      time: Jan 2021 - July 2021
-      company: OXLABS, Didcot
-      details: |
-        Technical lead for developing commerical engineering products.
-          - Developing CAD designs for innovative air filtration devices
-          - Prototype development manufacture and assembly.
-
     - role: Robotics Lead Engineer (Freelance)
       time: July 2021 - Present
       company: Oxford Dynamics, Didcot
@@ -106,6 +98,14 @@ experiences:
           - Proficiency in SW Simulation/ANSYS/ESATAN/FEMAP/Matlab.
           - Design, manufacture and assembly of assemblies with hundreds of parts.
 
+    - role: Senior Mechanical Engineer (Freelance)
+      time: Jan 2021 - July 2021
+      company: OXLABS, Didcot
+      details: |
+        Technical lead for developing commerical engineering products.
+          - Developing CAD designs for innovative air filtration devices
+          - Prototype development manufacture and assembly.
+          
     - role: Mechanical Design Engineer
       time: Jan 2019 - Aug 2019
       company: Oxford Space Systems, Didcot
