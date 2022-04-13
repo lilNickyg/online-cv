@@ -75,7 +75,7 @@ education:
 experiences:
     # - role: Robotics Lead Engineer (Freelance)
     #   time: July 2021 - Present
-    #   company: Oxford Dynamics, Didcot
+    #   company: X, Didcot
     #   details: |
     #     Developing Microscale Robotics and AI Technology in an innovative R&D
     #     environment.
@@ -101,7 +101,8 @@ experiences:
           - Support business development team in preparing technical proposals
           for customers
           - Proficiency in SW Simulation/ANSYS/ESATAN/FEMAP/Matlab.
-          - Design, manufacture and assembly of assemblies with hundreds of parts.
+          - Work package manager for several projects on "Wrapped Rib" antennas
+          - Technical Lead for Sinuous Cavity backed Spiral Antenna project and EM testing for "Wrapped Rib" projects.
 
     - role: Senior Mechanical Engineer (Freelance)
       time: Jan 2021 - July 2021
@@ -110,15 +111,16 @@ experiences:
         Technical lead for developing commerical engineering products.
           - Developing CAD designs for innovative air filtration devices
           - Prototype development manufacture and assembly.
+          - Marketing and Advert production for products.
 
     - role: Mechanical Design Engineer
       time: Jan 2019 - Aug 2019
       company: Oxford Space Systems, Didcot
       details: |
         Responsibilities include:
-
           - Solidworks design 3D modelling and 2D technical Drawings
-          - Simulations and rendering animations for delivering presentations
+          - Simulations and animations for presentations & marketing
+          - Work package Manager for Hold-down-release-mechanism for "Offset" antenna project.
 
     - role: Mechanical Design & FE Engineer
       time: 2016 - 2018
@@ -138,7 +140,8 @@ experiences:
           performance using FE tools.
           - Designed models with SolidWorks, and manufactured parts using CNC
           machines via CAM software.
-          - Developed and built a new website to improve an outdated one.
+          - Developed and built a new website with HTML CSS & JS.
+          - Created a company database; building a server using Microsoft Azure
 
 projects:
     title: Projects
