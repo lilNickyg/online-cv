@@ -73,20 +73,31 @@ education:
           - FEA on Self-healing composites induced by electric fields.
 
 experiences:
-    # - role: Robotics Lead Engineer (Freelance)
-    #   time: July 2021 - Present
-    #   company: X, Didcot
-    #   details: |
-    #     Developing Microscale Robotics and AI Technology in an innovative R&D
-    #     environment.
-    #       - Performing CFD analysis on propeller blades for optimising
-    #       acoustic performance
-    #       - 3D Printing prototype models
-    #       - Electronics assembly and procurement
-    #       - Testing and producing reports or presentations
+    - role: Senior Mechanical Design Engineer
+      time: Sept 2022 - Present
+      company: Astroscale, Didcot
+      details: |
+        Developing CAD for the ELSA-M mission for removal of space debris and servicing of LEO satellites.
+          - Performing structural analysis on Ground support equipment.
+          - 3D Printing prototype & GSE models
+          - Mechanical & Electronics assembly and procurement
+          - Define and develop sub-system architecture
+          - Mentoring team members and supporting test engineers
+
+    - role: Robotics Lead Engineer (Freelance)
+      time: July 2021 - Present
+      company: Oxford Dynamics, Didcot
+      details: |
+        Developing Microscale Robotics and AI Technology in an innovative R&D
+        environment.
+          - Performing CFD analysis on propeller blades for optimising
+          acoustic performance
+          - 3D Printing prototype models
+          - Electronics assembly and procurement
+          - Testing and producing reports or presentations
 
     - role: Mechanical & Thermal Engineer
-      time: Aug 2019 - Present
+      time: Aug 2019 - September 2022
       company: Oxford Space Systems, Didcot
       details: |
         Developing innovative deployable antennas and structures that meet the
