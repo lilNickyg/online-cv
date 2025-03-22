@@ -15,7 +15,7 @@ sidebar:
     email: nj_graham@sky.com
     phone: 07542551093
     website: lilnickyg.github.io #do not add http://
-    linkedin: nicholas-graham-165a9210a
+    linkedin: nick-graham-space
     github: lilnickyg
     gitlab:
     bitbucket:
@@ -77,7 +77,7 @@ experiences:
             - Mentor graduates and peer-review design work of team members.
 
     - role: Senior Mechanical & Thermal Engineer
-      time: Aug 2019 2022 - Sept 2022
+      time: Aug 2019 - Sept 2022
       company: Oxford Space Systems, Didcot
       details: |
        Developed innovative deployable antennas and structures that address the challenges of the new space age, designing low-cost solutions at record pace.
@@ -88,14 +88,6 @@ experiences:
         -	Proficient in SW Simulation, ANSYS, MATLAB and FEMAP.
         -	Managed work packages for several projects on Wrapped Rib antenna products up to CDR.
         -	Served as Technical Lead for the Sinuous Cavity-Backed Spiral Antenna project.
-
-    - role: Mechanical Design Engineer
-      time: Jan 2019 - Aug 2019
-      company: Astroscale, Didcot
-      details: |
-        -	Created 3D models and 2D technical drawings using SolidWorks.
-        -	Developed simulations and animations for presentations and marketing.
-        -	Managed the work package for the hold-down release mechanism for the “Offset” antenna project up to CDR.
 
     - role: Robotics Lead Engineer (Part-time)
       time: July 2021 - Aug 2024
@@ -117,7 +109,7 @@ experiences:
         -	Created marketing materials and advertisements for products.
 
     - role: Mechanical Design & FE Engineer
-      time: 2016 - Jan 2019
+      time: Jan 2016 - Jan 2019
       company: TISICS, Farnborough
       details: |
         Developed innovative solutions for aerospace and in-orbit applications using Metal Matrix Composites. 
