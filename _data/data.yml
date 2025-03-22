@@ -44,16 +44,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      For the past 5 years I have been working within in the Space Industry,
-      developing my skills in Mechanical Design, Finite Element
-      Analysis, Web Design, Composite manufacture and Manual/CNC Machining.
-      I have recently successfully achieved Chartership status with the IMechE, and plan to
-      develop my skills as effectively as possible while learning new subjects
-      to expand my knowledge.
-
-      I'm looking to continue my work within an innovative
-      R&D based work environment, developing
-      exciting new products and expanding my skillset through personal development.
+        I have been working in the Space Industry since 2016,
+        developing my skills in Mechanical Design, Finite Element Analysis, and manufacturing technologies.
+        I have been a Chartered Engineer with the IMechE since 2021,
+        and I am looking to continue my work in an innovative R&D-based environment,
+        developing exciting new products and expanding my skill set through personal development.
 
 education:
     - degree: MEng in Mechanical Engineering
@@ -73,124 +68,97 @@ experiences:
       time: Sept 2022 - Present
       company: Astroscale, Didcot
       details: |
-        Developing CAD for the ELSA-M mission for removal of space debris and servicing of LEO satellites.
-          - Performing structural analysis on Ground support equipment.
-          - 3D Printing prototype & GSE models
-          - Mechanical & Electronics assembly and procurement
-          - Define and develop sub-system architecture
-          - Mentoring team members and supporting test engineers
+        Developing CAD for the ELSA-M & COSMIC missions focused on space debris removal and servicing LEO satellites.
+            - Design and develop various spacecraft parts and assemblies to ISO standards.
+            - Produce technical product drawings in accordance with BS 8888 standards.
+            - Perform structural analysis on ground support equipment following ECSS standards.
+            - 3D print prototypes and assemble test rigs in a cleanroom environment.
+            - Prepare, review, and present design work and conclusions to stakeholders.
+            - Mentor graduates and peer-review design work of team members.
 
-    - role: Robotics Lead Engineer (Freelance)
-      time: July 2021 - Present
-      company: Oxford Dynamics, Didcot
-      details: |
-        Developing Microscale Robotics and AI Technology in an innovative R&D
-        environment.
-          - Performing CFD analysis on propeller blades for optimising
-          acoustic performance
-          - 3D Printing prototype models
-          - Electronics assembly and procurement
-          - Testing and producing reports or presentations
-
-    - role: Mechanical & Thermal Engineer
-      time: Aug 2019 - September 2022
+    - role: Senior Mechanical & Thermal Engineer
+      time: Aug 2019 2022 - Sept 2022
       company: Oxford Space Systems, Didcot
       details: |
-        Developing innovative deployable antennas and structures that meet the
-        challenges of new space age. Designing low cost solutions at record
-        pace.
-
-          - Performing design and analysis (mechanical-structural, thermal
-          and dynamic-vibration) to support deployable
-          structures projects.
-          - Creation and of detailed analysis reports
-          - Documentation of test plans and proceedures
-          - Support business development team in preparing technical proposals
-          for customers
-          - Proficiency in SW Simulation/ANSYS/ESATAN/FEMAP/Matlab.
-          - Work package manager for several projects on "Wrapped Rib" antennas
-          - Technical Lead for Sinuous Cavity backed Spiral Antenna project and EM testing for "Wrapped Rib" projects.
-
-    - role: Senior Mechanical Engineer (Freelance)
-      time: Jan 2021 - July 2021
-      company: OXLABS, Didcot
-      details: |
-        Technical lead for developing commerical engineering products.
-          - Developing CAD designs for innovative air filtration devices
-          - Prototype development manufacture and assembly.
-          - Marketing and Advert production for products.
+       Developed innovative deployable antennas and structures that address the challenges of the new space age, designing low-cost solutions at record pace.
+        -	Performed mechanical-structural, thermal, and dynamic-vibration analysis to support deployable structures projects.
+        -	Created and presented detailed design and analysis reports.
+        -	Documented test plans and procedures.
+        -	Supported the business development team in preparing technical proposals for customers.
+        -	Proficient in SW Simulation, ANSYS, MATLAB and FEMAP.
+        -	Managed work packages for several projects on Wrapped Rib antenna products up to CDR.
+        -	Served as Technical Lead for the Sinuous Cavity-Backed Spiral Antenna project.
 
     - role: Mechanical Design Engineer
       time: Jan 2019 - Aug 2019
-      company: Oxford Space Systems, Didcot
+      company: Astroscale, Didcot
       details: |
-        Responsibilities include:
-          - Solidworks design 3D modelling and 2D technical Drawings
-          - Simulations and animations for presentations & marketing
-          - Work package Manager for Hold-down-release-mechanism for "Offset" antenna project.
+        -	Created 3D models and 2D technical drawings using SolidWorks.
+        -	Developed simulations and animations for presentations and marketing.
+        -	Managed the work package for the hold-down release mechanism for the “Offset” antenna project up to CDR.
+
+    - role: Robotics Lead Engineer (Part-time)
+      time: July 2021 - Aug 2024
+      company: Oxford Dynamics, Didcot
+      details: |
+            Developing microscale and large robots utilizing AI technology in an innovative R&D environment.
+            -	Performed CFD analysis on propeller blades to optimize acoustic performance.
+            -	3D printed prototype models.
+            -	Assembled and procured electronic components.
+            -	Conducted testing and produced reports and presentations.
+
+    - role: Senior Mechanical Engineer (Part-time)
+      time: Jan 2021 - July 2021
+      company: OXLABS, Didcot
+      details: |
+        Technical lead for the development of commercial engineering products.
+        -	Designed CAD models for innovative air filtration devices.
+        -	Managed prototype development, manufacturing, and assembly.
+        -	Created marketing materials and advertisements for products.
 
     - role: Mechanical Design & FE Engineer
-      time: 2016 - 2018
+      time: 2016 - Jan 2019
       company: TISICS, Farnborough
       details: |
-        Developing innnovate solutions to aerospace and in-orbit applications
-        using Metal Matrix Composites. Lightweight, high strength Titanium SiC
-        composites designed and applied to new designs in the space Industry.
+        Developed innovative solutions for aerospace and in-orbit applications using Metal Matrix Composites. 
+        -	Designed and applied lightweight, high-strength Titanium SiC composites to new space industry applications.
+        -	Led full-lifecycle product development for R&D projects with funding exceeding €1.5 million.
+        -	Served as project lead for multiple Innovate UK projects focused on Metal Matrix Composites.
+        -	Delivered presentations at QRMs for project partners such as ESA, UKSpace, Thales, and Rolls-Royce.
+        -	Analysed data and interpreted results to characterize design performance using Finite Element tools.
+        -	Designed models in SolidWorks and manufactured parts using CNC machines via CAM software.
+        -	Developed and launched a modern company website.
+        -	Created a company database and built a server using Microsoft Azure.
 
-          - Performed full lifecycle product development for R&D projects with
-          funding of over €1.5 million.
-          - Project lead for multiple Innovate UK projects, focused on Metal
-          Matrix Composites.
-          - Performed presentations at QRMs for project partners such as ESA,
-          UKSpace, Thales, RR and JLR.
-          - Analyses data and interpreted results to characterize design
-          performance using FE tools.
-          - Designed models with SolidWorks, and manufactured parts using CNC
-          machines via CAM software.
-          - Developed and built a new website with HTML CSS & JS.
-          - Created a company database; building a server using Microsoft Azure
 
 projects:
     title: Projects
-    intro: >
-      Projects I have worked on that can be disclosed publically include:
-
     assignments:
-      - title: OSS - Wrapped Rib Antenna Development
-        link: "https://oxford.space/wrapped-rib/"
-        tagline: "Work Package Manager and Technical lead on multiple projects
-        within the Wrapped Rib development team"
 
-      - title: InnovateUK, Materials for Demanding environments
+      - title: Astroscale; ELSA-M & COSMIC missions
+        link: "https://astroscale.com/missions/"
+        tagline: "Solving End-of-Life disposal challenges with Active Debris Removal Satellites due to launch in the next few years."
+        
+      - title: OSS;- Wrapped Rib Antenna & Offset Reflector
+        link: "https://oxford.space/"
+        tagline: "Work Package Manager and Technical lead on multiple projects within the Wrapped Rib development team and Offset Reflector team."
+
+      - title: Oxford Dynamics; STRIDER
+        link: "https://www.bbc.co.uk/news/articles/cg647kqk34ro"
+        tagline: "A robot capable of replacing humans and carrying out tasks in hazardous environments affected by biological, chemical, or nuclear threats, like radiation-exposed areas."
+
+      - title: InnovateUK; Materials for Demanding environments
         link: "https://www.amrc.co.uk/news/supporting-developments-in-lightweighting-helps-uk-companies-take-advantage-of-opportunities-in-glo"
-        tagline: "Developing actuators rods in highly specialised aerospace
-        technology such as satellites where ‘lightweighting’ is critical to
-        the design of components, as saving the smallest amount of weight can
-        have a massive impact on launch costs."
+        tagline: "Developing actuators rods in highly specialised aerospace technology such as satellites where ‘lightweighting’ is critical to the design of components, as saving the smallest amount of weight can have a massive impact on launch costs. In collaboration with AMRC."
 
-      - title: InnovateUK, Robotic In-Space Manufacturing & Assembly (RISMA)
+      - title: InnovateUK; Robotic In-Space Manufacturing & Assembly (RISMA)
         link: "https://www.tisics.co.uk/doc/Airbus_Robot_Arm_Poster.pdf"
         tagline: "Robotically demonstrate the manufacturing and
         assembly of representative space structures in a laboratory environment."
 
-      - title: InnovateUK, Power Ultrasound as a generic tool for nanoscale processing of materials (UltraMAT)
+      - title: InnovateUK; Power Ultrasound as a generic tool for nanoscale processing of materials (UltraMAT)
         link: "http://www.ultramat.co.uk/"
         tagline: "Power ultrasound as a generic tool for micro/nanoscale processing of metals"
-
-      - title: InnovateUK, Other
-        link: "https://www.qub.ac.uk/sites/OLIVERProject/"
-        tagline: "Some other InnovateUK funded projects I have worked on
-        include Project OLIVER (Laser welding titanium composite using Filament
-         wound overwrapped SiC fibres) and
-        Mechanised production of moulded high strength aluminium tanks"
-
-      - title: Personal Development
-        link: "https://lilnickyg.github.io/"
-        tagline: "Learning programming, Web Dev and electronics at home has
-        enabled me to build my own website, use programming to help automate
-        work, develop multiple Projects on the Raspberry Pi and build my own
-        Mechanical Keyboard from scratch. I've also been able to 3D Print at home
-        to aid with work and home projects."
 
 publications:
     title: Publications
@@ -204,27 +172,27 @@ publications:
         authors: Wang, Y., Edgell, J., Graham, N., Jackson, N., Liang, H., & Pham, D. T.
         conference: "Cogent Engineering 7.1 (2020): 1799909."
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Solidworks CAD/Simulation
-        level: 98%
-
-      - name: ANSYS, FEMAP
-        level: 90%
-
-      - name: 3D Printing
-        level: 85%
-
-      - name: Metalwork machining
-        level: 80%
-
-      - name: Electronics
-        level: 60%
-
-      - name: Programming
-        level: 50%
+# skills:
+#    title: Skills &amp; Proficiency
+#
+ #   toolset:
+ #     - name: Solidworks CAD/Simulation
+ #       level: 98%
+#
+ #     - name: ANSYS, FEMAP
+#        level: 90%
+#
+#      - name: 3D Printing
+ #       level: 85%
+#
+#      - name: Metalwork machining
+#        level: 80%
+#
+#      - name: Electronics
+ #       level: 60%
+#
+ #     - name: Programming
+  #      level: 50%
 
 
 footer: #>
